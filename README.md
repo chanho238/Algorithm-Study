@@ -8,5 +8,5 @@ Python 사용
 
 📂 Profiles
 <br/>Programmers
-Baekjoon
+
 
